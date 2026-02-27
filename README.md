@@ -1,2 +1,2 @@
 # LLMs-PyTorch
-Basic Concepts of LLMs in PyTorch.
+Basic Concepts of LLMs in PyTorch based on Mike X Cohen course.
