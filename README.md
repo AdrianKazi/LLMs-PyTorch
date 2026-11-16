@@ -1,4 +1,4 @@
 # LLMs-PyTorch
-LLMs PyTorch Implementation and Experimentations notebooks with mechanistic explanations and visualisation for each crucial step.
+LLMs PyTorch Implementation, and my mechanistic explanations of each crucial step.
 
-*Based on Mike X Cohen LLMs Implementation*
+*Implementations are based on Mike X Cohen LLMs Course*
